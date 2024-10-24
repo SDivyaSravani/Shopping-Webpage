@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.shop-1 {
+    background-image: url('https://media.istockphoto.com/photos/empty-orange-color-shopping-bag-on-the-yellow-background-copy-space-picture-id1178685067?k=20&m=1178685067&s=612x612&w=0&h=Vzg85rLPoUG2bGorUmCSChFjLS_t6xvpXvPzxFxcE-o=');
+    height: 27vh;
+
+    background-size: cover;
+}
+
+.shop-2 {
+    background-color: black;
+}
+
+.shophead {
+    font-family: Bree;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.shoppara {
+    font-family: Bree;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.diwali-head {
+    color: white;
+    font-family: Caveat;
+    font-size: 35px;
+    width: 200px;
+    padding: 15px;
+}
+
+.diwali-down-section {
+    background-color: black;
+
+    text-align: center;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+
+    border-radius: 9px;
+    padding: 5px;
+    margin: 3px;
+}
+
+.you {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.diwali-balloon {
+    height: 70%;
+    width: 70%;
+    border-radius: 10px;
+    padding: 3px;
+
+}
+
+.bbb {
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+    color: white;
+}
+
+.btnline {
+
+    color: white;
+}
+
+.div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.shopbg {
+    background-color: black;
+    height: 40vh;
+}
+
+
+.wc {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.head {
+    color: white;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    height: 60px;
+    width: 40px;
+    padding: 6px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.wi {
+    text-align: center;
+    height: 80%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cc {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn {
+    height: 30px;
+    width: 70px;
+    color: blue;
+    padding: 1px;
+}
+
+.back {
+    background-color: black;
+    color: white;
+    border: 25px;
+
+}
+
+.mc {
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+}
+
+.head {
+    color: white;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    height: 70vh;
+    width: 35vw;
+    padding: 15px;
+    margin: 16px;
+    border-radius: 10px;
+}
+
+.mi {
+    text-align: center;
+    height: 90%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cc {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn {
+    height: 30px;
+    width: 70px;
+    color: blue;
+    padding: 1px;
+}
+
+.back {
+    background-color: black;
+    color: white;
+    border: 25px;
+
+}
+
+.bolo {
+    background-color: #210e01;
+    color: white;
+    padding: 10px;
+}
